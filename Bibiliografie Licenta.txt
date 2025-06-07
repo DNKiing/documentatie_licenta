@@ -1,0 +1,22 @@
+Referințe bibliografice relevante
+[1] Codecademy. "Pricing." Codecademy, 2025. https://www.codecademy.com/pricing . Accesat în 7 iunie 2025.
+[2] Codecademy. "Paid Plans - Codecademy Student Discount." Codecademy, 2025. https://www.codecademy.com/pages/paid-plans . Accesat în 7 iunie 2025.
+[3] Codecademy. "Learn to Code - for Free." Codecademy, 2025. https://www.codecademy.com/ . Accesat în 7 iunie 2025.
+[4] "Codecademy." Wikipedia, 8 aprilie 2025. https://en.wikipedia.org/wiki/Codecademy . Accesat în 7 iunie 2025.
+[5] HackerRank. "Pricing - Programming problems and challenges." HackerRank, 2025. https://www.hackerrank.com/work/pricing . Accesat în 7 iunie 2025.
+[6] HackerRank. "Online Coding Tests and Technical Interviews." HackerRank, 2025. https://www.hackerrank.com . Accesat în 7 iunie 2025.
+[7] "HackerRank Pricing, Alternatives & More 2025." Capterra, 2025. https://www.capterra.com/p/143549/HackerRank/ . Accesat în 7 iunie 2025.
+[8] "LeetCode." Wikipedia, 24 mai 2025. https://en.wikipedia.org/wiki/LeetCode . Accesat în 7 iunie 2025.
+[9] LeetCode. "LeetCode Premium." LeetCode, 2025. https://leetcode.com/subscribe/ . Accesat în 7 iunie 2025.
+[10] "Is it worth it to buy LeetCode Premium?" Design Gurus, 2025. https://www.designgurus.io/answers/detail/is-it-worth-it-to-buy-leetcode-premium . Accesat în 7 iunie 2025.
+[11] Abiodun, E.I., Jantan, A., Omolara, A.E., Dada, K.V., Mohamed, N.A. și Arshad, H. "A review on effective approach to teaching computer programming to undergraduates in developing countries." Heliyon, vol. 8, nr. 9, 2022. https://www.sciencedirect.com/science/article/pii/S2468227622001478 . Accesat în 7 iunie 2025
+[12] Tsarev, R., Krasnikhin, A., Chernyshev, A. și Chernyshev, D. "The use of online coding platforms as additional distance tools in programming education." ResearchGate, martie 2021. https://www.researchgate.net/publication/350210999 . Accesat în 7 iunie 2025
+[13] Zhang, Y., Li, M., Wang, X. "Would ChatGPT-facilitated programming mode impact college students' programming behaviors, performances, and perceptions? An empirical study." International Journal of Educational Technology in Higher Education, 2024. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00446-5 . Accesat în 7 iunie 2025
+[14] Grover, S. și Pea, R. "Learning to code or coding to learn? A systematic review." Computers & Education, vol. 129, 2018, pp. 29-45. https://www.sciencedirect.com/science/article/abs/pii/S0360131518302768 . Accesat în 7 iunie 2025
+[15] WBS Coding School. "What is tutorial hell and how to get out." 15 iunie 2022. Accesat în 7 iunie 2025
+https://www.wbscodingschool.com/blog/what-is-tutorial-hell-how-to-get-out/ . Accesat în 7 iunie 2025
+[16] Zero To Mastery. "How I escaped Tutorial Hell." 24 iunie 2022. https://zerotomastery.io/blog/how-i-escaped-tutorial-hell/ . Accesat în 7 iunie 2025
+[17] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2 . Accesat în 7 iunie 2025
+[18] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/ . Accesat în 7 iunie 2025
+[19] W3Schools. "C Tutorial." 2025. https://www.w3schools.com/c/ . Accesat în 7 iunie 2025.
+[20] Programiz. "Learn C Programming." 2025. https://www.programiz.com/c-programming . Accesat în 7 iunie 2025.
