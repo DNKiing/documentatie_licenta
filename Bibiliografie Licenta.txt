@@ -20,3 +20,65 @@ https://www.wbscodingschool.com/blog/what-is-tutorial-hell-how-to-get-out/ . Acc
 [18] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/ . Accesat în 7 iunie 2025
 [19] W3Schools. "C Tutorial." 2025. https://www.w3schools.com/c/ . Accesat în 7 iunie 2025.
 [20] Programiz. "Learn C Programming." 2025. https://www.programiz.com/c-programming . Accesat în 7 iunie 2025.
+
+
+
+### Capitol 3 
+Title: Online Learning vs Traditional Learning - University of the Potomac
+Link: potomac.edu
+
+Title: (PDF) Comparing Learning Outcomes between Traditional Classroom Teaching ...
+Link: researchgate.net
+
+Title: Traditional Learning Vs. Online Learning - eLearning Industry
+Link: elearningindustry.com
+
+Title: Traditional Learning vs Online Learning: Advantages and Disadvantages
+Link: pinlearn.com
+
+Title: eLearning Or Traditional Classroom Learning? Exploring The Pros And Cons
+Link: elearningindustry.com
+
+Title: 9 Reasons Why eLearning Outshines Traditional Education Methods – Sensei LMS
+Link: senseilms.com
+
+Title: The Impact and Effectiveness of E-Learning on Teaching ...
+Link: ed.gov
+
+
+### Capitol 3.3 
+Referințe utilizate:
+[1] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/. Accesat în 8 iunie 2025.
+[2] Software Engineering Stack Exchange. "Is learning C essential for Computer Science?" https://softwareengineering.stackexchange.com/questions/210737/is-learning-c-essential-for-computer-science. Accesat în 8 iunie 2025.
+[3] GeeksforGeeks. "Why learning C Programming is a must?" 22 august 2024. https://www.geeksforgeeks.org/why-learning-c-programming-is-a-must/. Accesat în 8 iunie 2025.
+[4] StudySmarter. "C Programming Language: Examples, History & Advantages." https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/c-programming-language/. Accesat în 8 iunie 2025.
+[5] edX. "Learn C programming." https://www.edx.org/learn/c-programming. Accesat în 8 iunie 2025.
+[6] Computer Science Stack Exchange. "What programming languages always learned in computer science B.Sc.?" https://cs.stackexchange.com/questions/116926/what-programming-languages-always-learned-in-computer-science-b-sc. Accesat în 8 iunie 2025.
+[7] GeeksforGeeks. "C Programming Course Online - Learn C with Data Structures." https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced. Accesat în 8 iunie 2025.
+[8] GeeksforGeeks. "10 Best C Programming Courses For Beginners [2025]." 21 ianuarie 2025. https://www.geeksforgeeks.org/best-c-programming-courses-for-beginners/. Accesat în 8 iunie 2025.
+[9] Yale University. "Computer Science." https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science/. Accesat în 8 iunie 2025.
+[10] UC Berkeley Extension. "Introduction to C Language Programming – EL ENG X24." https://extension.berkeley.edu/search/publicCourseSearchDetails.do?method=load&courseId=40911. Accesat în 8 iunie 2025.
+[11] Codecademy. "Learn C: Pointers and Memory." https://www.codecademy.com/learn/learn-c-pointers-and-memory. Accesat în 8 iunie 2025.
+[12] W3Schools. "C Pointers." https://www.w3schools.com/c/c_pointers.php. Accesat în 8 iunie 2025.
+[13] Programming Lies. "Memory management is too hard for you." 7 septembrie 2023. https://www.bytesbeneath.com/p/manual-memory-management-is-too-hard. Accesat în 8 iunie 2025.
+[14] Educated Guesswork. "Understanding Memory Management, Part 1: C." https://educatedguesswork.org/posts/memory-management-1/. Accesat în 8 iunie 2025.
+[15] Learning C with Pebble. "Chapter 8: Pointers and Memory Allocation." https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html. Accesat în 8 iunie 2025.
+[16] GeeksforGeeks. "Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()." 13 decembrie 2018. https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/. Accesat în 8 iunie 2025.
+[17] Coursera. "C Programming: Pointers and Memory Management - 4." https://www.coursera.org/learn/c-programming-pointers-and-memory-management. Accesat în 8 iunie 2025.
+[18] GeeksforGeeks. "C Pointers." 15 decembrie 2016. https://www.geeksforgeeks.org/c-pointers/. Accesat în 8 iunie 2025.
+[19] DEV Community. "Understanding Memory Management, Pointers, and Function Pointers in C." 5 iulie 2024. https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld. Accesat în 8 iunie 2025.
+[20] W3Schools. "C Memory Management (Memory Allocation)." https://www.w3schools.com/c/c_memory_management.php. Accesat în 8 iunie 2025.
+
+### Capitol 3.4 
+
+[1] MDPI. "Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools." https://www.mdpi.com/2674-113X/1/1/2. Accesat în 8 iunie 2025.
+[2] Md. Mostafizer Rahman et al. "Exploring Automated Code Evaluation Systems and Resources for Code Analysis: A Comprehensive Survey." arXiv:2307.08705, 8 iulie 2023. https://arxiv.org/abs/2307.08705. Accesat în 8 iunie 2025.
+[3] GitHub. "judge0/judge0: The most advanced open-source online code execution system in the world." https://github.com/judge0/judge0. Accesat în 8 iunie 2025.
+[4] ACM Computing Surveys. "A Survey on Online Judge Systems and Their Applications." https://dl.acm.org/doi/10.1145/3143560. Accesat în 8 iunie 2025.
+[5] SpringerLink. "An Intelligent Online Judge System for Programming Training." https://link.springer.com/chapter/10.1007/978-3-030-59419-0_57. Accesat în 8 iunie 2025.
+[6] ACM Transactions on Computing Education. "Automated Assessment in Computer Science Education: A State-of-the-Art Review." https://dl.acm.org/doi/10.1145/3513140. Accesat în 8 iunie 2025.
+[7] ResearchGate. "Building a Comprehensive Automated Programming Assessment System." 28 aprilie 2020. https://www.researchgate.net/publication/340985812_Building_a_Comprehensive_Automated_Programming_Assessment_System. Accesat în 8 iunie 2025.
+[8] ERIC. "Using Case-Based Reasoning to Improve the Quality of Feedback Provided by Automated Assessment Systems for Programming Exercises." 2017. https://eric.ed.gov/?q=e-learning&pg=194&id=ED577657. Accesat în 8 iunie 2025.
+[9] Aizu Online Judge. "ITP1_3_B: Print Test Cases." https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B. Accesat în 8 iunie 2025.
+[10] Observable. "Online Judge/ Computer Programming/ Hidden Testcases." 26 iulie 2020. https://observablehq.com/@jyotisunkara/online-judge-computer-programming-hidden-testcases. Accesat în 8 iunie 2025.
+[11] ScienceDirect. "TESTed—An educational testing framework with language-agnostic test suites for programming exercises." https://www.sciencedirect.com/science/article/pii/S2352711023001000. Accesat în 8 iunie 2025.
