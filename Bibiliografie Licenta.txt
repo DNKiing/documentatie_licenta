@@ -82,3 +82,49 @@ Referințe utilizate:
 [9] Aizu Online Judge. "ITP1_3_B: Print Test Cases." https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B. Accesat în 8 iunie 2025.
 [10] Observable. "Online Judge/ Computer Programming/ Hidden Testcases." 26 iulie 2020. https://observablehq.com/@jyotisunkara/online-judge-computer-programming-hidden-testcases. Accesat în 8 iunie 2025.
 [11] ScienceDirect. "TESTed—An educational testing framework with language-agnostic test suites for programming exercises." https://www.sciencedirect.com/science/article/pii/S2352711023001000. Accesat în 8 iunie 2025.
+
+Referințe utilizate pentru secțiunea 4.1:
+[1] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2. Accesat în 9 iunie 2025.
+[2] Firebase. "Firebase Authentication Documentation." Google, 2025. https://firebase.google.com/docs/auth. Accesat în 9 iunie 2025.
+[3] Monaco Editor. "Monaco Editor Documentation." Microsoft, 2025. https://microsoft.github.io/monaco-editor/. Accesat în 9 iunie 2025.
+[4] Judge0. "Judge0 API Documentation." 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
+[5] Google. "Web Vitals." Google Developers, 2025. https://web.dev/vitals/. Accesat în 9 iunie 2025.
+[6] European Union. "General Data Protection Regulation (GDPR)." 25 mai 2018. https://gdpr.eu/. Accesat în 9 iunie 2025.
+[7] W3C. "Web Content Accessibility Guidelines (WCAG) 2.1." 5 iunie 2018. https://www.w3.org/WAI/WCAG21/quickref/. Accesat în 9 iunie 2025.
+[8] ACM. "Computing Education Research." ACM Transactions on Computing Education, 2024. https://dl.acm.org/journal/toce. Accesat în 9 iunie 2025.
+
+Referințe utilizate pentru secțiunea 4.2:
+[1] Vercel. "Next.js Architecture Guide." Vercel Inc., 2025. https://nextjs.org/docs/architecture. Accesat în 9 iunie 2025.
+[2] Next.js. "App Router Documentation." Vercel Inc., 2025. https://nextjs.org/docs/app. Accesat în 9 iunie 2025.
+[3] Firebase. "Firebase Documentation." Google, 2025. https://firebase.google.com/docs. Accesat în 9 iunie 2025.
+[4] React. "React Documentation." Meta Platforms Inc., 2025. https://react.dev/. Accesat în 9 iunie 2025.
+[5] React. "React Hooks Documentation." Meta Platforms Inc., 2025. https://react.dev/reference/react. Accesat în 9 iunie 2025.
+[6] Firebase. "Firebase Architecture Guide." Google, 2025. https://firebase.google.com/docs/guides. Accesat în 9 iunie 2025.
+[7] Firebase. "Security Rules Documentation." Google, 2025. https://firebase.google.com/docs/rules. Accesat în 9 iunie 2025.
+[8] Judge0. "Judge0 Documentation." Judge0 Technologies, 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
+[9] React. "React Design Principles." Meta Platforms Inc., 2025. https://react.dev/learn/thinking-in-react. Accesat în 9 iunie 2025.
+[10] Google. "Web Performance Best Practices." Google Developers, 2025. https://web.dev/performance/. Accesat în 9 iunie 2025.
+
+
+Bibliografie  pentru capitolul 5: Accesat în 9 iunie 2025.
+
+Brown, T. (2019). Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. Harper Business.
+Google Cloud. (2024). Firestore Documentation. Disponibil la: https://cloud.google.com/firestore/docs
+Nielsen Norman Group. (2024). UX Design for Learning Platforms. NN/g Research.
+Stack Overflow. (2024). Developer Survey Results. Disponibil la: https://survey.stackoverflow.co
+Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257-285.
+Tidwell, J., Brewer, C., & Valencia, A. (2020). Designing Interfaces: Patterns for Effective Interaction Design (3rd ed.). O'Reilly Media.
+
+
+
+bibiliografie pentru capitolul 6 :Accessat in 9 iulie 2025
+
+Bibliografie
+[1] Google Developers. "Core Web Vitals - Essential metrics for a healthy site," Google, 2024. [Online]. Available: https://web.dev/vitals/
+[2] DebugBear. "Website Performance Testing and Monitoring," 2024. [Online]. Available: https://www.debugbear.com/
+[3] Firebase Team. "Firebase Documentation," Google Cloud, 2024. [Online]. Available: https://firebase.google.com/docs
+[4] Judge0 Team. "Judge0 CE API Documentation," 2024. [Online]. Available: https://ce.judge0.com/
+[5] Vercel Inc. "Next.js 15 Documentation," 2024. [Online]. Available: https://nextjs.org/docs
+[6] Microsoft Corporation. "Monaco Editor," 2024. [Online]. Available: https://microsoft.github.io/monaco-editor/
+[7] TailwindCSS Team. "Utility-First CSS Framework," 2024. [Online]. Available: https://tailwindcss.com/
+[8] TypeScript Team. "TypeScript Documentation," Microsoft, 2024. [Online]. Available: https://www.typescriptlang.org/
