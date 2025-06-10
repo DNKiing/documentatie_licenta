@@ -1,130 +1,218 @@
 Referințe bibliografice relevante
-[1] Codecademy. "Pricing." Codecademy, 2025. https://www.codecademy.com/pricing . Accesat în 7 iunie 2025.
-[2] Codecademy. "Paid Plans - Codecademy Student Discount." Codecademy, 2025. https://www.codecademy.com/pages/paid-plans . Accesat în 7 iunie 2025.
-[3] Codecademy. "Learn to Code - for Free." Codecademy, 2025. https://www.codecademy.com/ . Accesat în 7 iunie 2025.
-[4] "Codecademy." Wikipedia, 8 aprilie 2025. https://en.wikipedia.org/wiki/Codecademy . Accesat în 7 iunie 2025.
-[5] HackerRank. "Pricing - Programming problems and challenges." HackerRank, 2025. https://www.hackerrank.com/work/pricing . Accesat în 7 iunie 2025.
-[6] HackerRank. "Online Coding Tests and Technical Interviews." HackerRank, 2025. https://www.hackerrank.com . Accesat în 7 iunie 2025.
-[7] "HackerRank Pricing, Alternatives & More 2025." Capterra, 2025. https://www.capterra.com/p/143549/HackerRank/ . Accesat în 7 iunie 2025.
-[8] "LeetCode." Wikipedia, 24 mai 2025. https://en.wikipedia.org/wiki/LeetCode . Accesat în 7 iunie 2025.
-[9] LeetCode. "LeetCode Premium." LeetCode, 2025. https://leetcode.com/subscribe/ . Accesat în 7 iunie 2025.
-[10] "Is it worth it to buy LeetCode Premium?" Design Gurus, 2025. https://www.designgurus.io/answers/detail/is-it-worth-it-to-buy-leetcode-premium . Accesat în 7 iunie 2025.
-[11] Abiodun, E.I., Jantan, A., Omolara, A.E., Dada, K.V., Mohamed, N.A. și Arshad, H. "A review on effective approach to teaching computer programming to undergraduates in developing countries." Heliyon, vol. 8, nr. 9, 2022. https://www.sciencedirect.com/science/article/pii/S2468227622001478 . Accesat în 7 iunie 2025
-[12] Tsarev, R., Krasnikhin, A., Chernyshev, A. și Chernyshev, D. "The use of online coding platforms as additional distance tools in programming education." ResearchGate, martie 2021. https://www.researchgate.net/publication/350210999 . Accesat în 7 iunie 2025
-[13] Zhang, Y., Li, M., Wang, X. "Would ChatGPT-facilitated programming mode impact college students' programming behaviors, performances, and perceptions? An empirical study." International Journal of Educational Technology in Higher Education, 2024. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00446-5 . Accesat în 7 iunie 2025
-[14] Grover, S. și Pea, R. "Learning to code or coding to learn? A systematic review." Computers & Education, vol. 129, 2018, pp. 29-45. https://www.sciencedirect.com/science/article/abs/pii/S0360131518302768 . Accesat în 7 iunie 2025
-[15] WBS Coding School. "What is tutorial hell and how to get out." 15 iunie 2022. Accesat în 7 iunie 2025
+[1.1] Codecademy. "Pricing." Codecademy, 2025. https://www.codecademy.com/pricing . Accesat în 7 iunie 2025.
+[1.2] Codecademy. "Paid Plans - Codecademy Student Discount." Codecademy, 2025. https://www.codecademy.com/pages/paid-plans . Accesat în 7 iunie 2025.
+[1.3] Codecademy. "Learn to Code - for Free." Codecademy, 2025. https://www.codecademy.com/ . Accesat în 7 iunie 2025.
+[1.4] "Codecademy." Wikipedia, 8 aprilie 2025. https://en.wikipedia.org/wiki/Codecademy . Accesat în 7 iunie 2025.
+[1.5] HackerRank. "Pricing - Programming problems and challenges." HackerRank, 2025. https://www.hackerrank.com/work/pricing . Accesat în 7 iunie 2025.
+[1.6] HackerRank. "Online Coding Tests and Technical Interviews." HackerRank, 2025. https://www.hackerrank.com . Accesat în 7 iunie 2025.
+[1.7] "HackerRank Pricing, Alternatives & More 2025." Capterra, 2025. https://www.capterra.com/p/143549/HackerRank/ . Accesat în 7 iunie 2025.
+[1.8] "LeetCode." Wikipedia, 24 mai 2025. https://en.wikipedia.org/wiki/LeetCode . Accesat în 7 iunie 2025.
+[1.9] LeetCode. "LeetCode Premium." LeetCode, 2025. https://leetcode.com/subscribe/ . Accesat în 7 iunie 2025.
+[1.10] "Is it worth it to buy LeetCode Premium?" Design Gurus, 2025. https://www.designgurus.io/answers/detail/is-it-worth-it-to-buy-leetcode-premium . Accesat în 7 iunie 2025.
+[1.11] Abiodun, E.I., Jantan, A., Omolara, A.E., Dada, K.V., Mohamed, N.A. și Arshad, H. "A review on effective approach to teaching computer programming to undergraduates in developing countries." Heliyon, vol. 8, nr. 9, 2022. https://www.sciencedirect.com/science/article/pii/S2468227622001478 . Accesat în 7 iunie 2025
+[1.12] Tsarev, R., Krasnikhin, A., Chernyshev, A. și Chernyshev, D. "The use of online coding platforms as additional distance tools in programming education." ResearchGate, martie 2021. https://www.researchgate.net/publication/350210999 . Accesat în 7 iunie 2025
+[1.13] Zhang, Y., Li, M., Wang, X. "Would ChatGPT-facilitated programming mode impact college students' programming behaviors, performances, and perceptions? An empirical study." International Journal of Educational Technology in Higher Education, 2024. https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-024-00446-5 . Accesat în 7 iunie 2025
+[1.14] Grover, S. și Pea, R. "Learning to code or coding to learn? A systematic review." Computers & Education, vol. 129, 2018, pp. 29-45. https://www.sciencedirect.com/science/article/abs/pii/S0360131518302768 . Accesat în 7 iunie 2025
+[1.15] WBS Coding School. "What is tutorial hell and how to get out." 15 iunie 2022. Accesat în 7 iunie 2025
 https://www.wbscodingschool.com/blog/what-is-tutorial-hell-how-to-get-out/ . Accesat în 7 iunie 2025
-[16] Zero To Mastery. "How I escaped Tutorial Hell." 24 iunie 2022. https://zerotomastery.io/blog/how-i-escaped-tutorial-hell/ . Accesat în 7 iunie 2025
-[17] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2 . Accesat în 7 iunie 2025
-[18] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/ . Accesat în 7 iunie 2025
-[19] W3Schools. "C Tutorial." 2025. https://www.w3schools.com/c/ . Accesat în 7 iunie 2025.
-[20] Programiz. "Learn C Programming." 2025. https://www.programiz.com/c-programming . Accesat în 7 iunie 2025.
+[1.16] Zero To Mastery. "How I escaped Tutorial Hell." 24 iunie 2022. https://zerotomastery.io/blog/how-i-escaped-tutorial-hell/ . Accesat în 7 iunie 2025
+[1.17] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2 . Accesat în 7 iunie 2025
+[1.18] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/ . Accesat în 7 iunie 2025
+[1.19] W3Schools. "C Tutorial." 2025. https://www.w3schools.com/c/ . Accesat în 7 iunie 2025.
+[1.20] Programiz. "Learn C Programming." 2025. https://www.programiz.com/c-programming . Accesat în 7 iunie 2025.
+https://ziarexpress.ro/2025/04/11/
+[1.21] https://www.reddit.com/r/learnprogramming/comments/qrlx5m/what_exactly_is_tutorial_hell/
+[1.22] https://nextjs.org/docs
 
+Capitolul 2 
 
+[2.1] - https://www.hackerrank.com/. HackerRank
+[2.2] - https://leetcode.com/ - Leetcode
 
 ### Capitol 3 
-Title: Online Learning vs Traditional Learning - University of the Potomac
-Link: potomac.edu
+[NEW_REF_1] GeeksforGeeks. "Memory Management in C". Disponibil la: https://www.geeksforgeeks.org/memory-management-in-c/. Accesat la: 10 iunie 2025.
 
-Title: (PDF) Comparing Learning Outcomes between Traditional Classroom Teaching ...
-Link: researchgate.net
+[NEW_REF_2] Programiz. "C Programming Tutorial". Disponibil la: https://www.programiz.com/c-programming. Accesat la: 10 iunie 2025.
 
-Title: Traditional Learning Vs. Online Learning - eLearning Industry
-Link: elearningindustry.com
+[NEW_REF_3] Stack Overflow. "Memory Management Questions". Disponibil la: https://stackoverflow.com/questions/tagged/memory-management+c. Accesat la: 10 iunie 2025.
 
-Title: Traditional Learning vs Online Learning: Advantages and Disadvantages
-Link: pinlearn.com
+[NEW_REF_4] GeeksforGeeks. "Dynamic Memory Allocation in C". Disponibil la: https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/. Accesat la: 10 iunie 2025.
 
-Title: eLearning Or Traditional Classroom Learning? Exploring The Pros And Cons
-Link: elearningindustry.com
+[NEW_REF_5] Programiz. "C Standard Library Functions". Disponibil la: https://www.programiz.com/c-programming/library-function. Accesat la: 10 iunie 2025.
 
-Title: 9 Reasons Why eLearning Outshines Traditional Education Methods – Sensei LMS
-Link: senseilms.com
+[NEW_REF_6] Stack Overflow. "Learning C Programming". Disponibil la: https://stackoverflow.com/questions/tagged/c+learning. Accesat la: 10 iunie 2025.
 
-Title: The Impact and Effectiveness of E-Learning on Teaching ...
-Link: ed.gov
+[NEW_REF_7] Computer Language Benchmarks Game. "Language Performance Comparison". Disponibil la: https://benchmarksgame-team.pages.debian.net/benchmarksgame/. Accesat la: 10 iunie 2025.
 
+[NEW_REF_8] IBM Developer. "C Programming Language". Disponibil la: https://developer.ibm.com/technologies/c/. Accesat la: 10 iunie 2025.
 
+[NEW_REF_9] ACM Digital Library. "Computer Science Education". Disponibil la: https://dl.acm.org/topic/ccs2012/10010405.10010489.10010490. Accesat la: 10 iunie 2025.
+
+[NEW_REF_10] IEEE Xplore. "Programming Education Research". Disponibil la: https://ieeexplore.ieee.org/browse/periodicals/title. Accesat la: 10 iunie 2025.
+
+[NEW_REF_11] SAGE Journals. "Educational Technology Systems". Disponibil la: https://journals.sagepub.com/home/ets. Accesat la: 10 iunie 2025.
+
+[NEW_REF_12] ResearchGate. "Computer Science Research". Disponibil la: https://www.researchgate.net/topic/Computer-Science. Accesat la: 10 iunie 2025.
+
+[NEW_REF_13] Taylor & Francis Online. "Computer Science Education". Disponibil la: https://www.tandfonline.com/toc/ncse20/current. Accesat la: 10 iunie 2025.
+
+[NEW_REF_14] EDUCAUSE. "Educational Technology Research". Disponibil la: https://www.educause.edu/research. Accesat la: 10 iunie 2025.
+
+[NEW_REF_15] EDUCAUSE. "Higher Education IT". Disponibil la: https://www.educause.edu/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_16] Software Testing Fundamentals. "Test Case Design". Disponibil la: https://softwaretestingfundamentals.com/test-case-design/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_17] CP-Algorithms. "Competitive Programming". Disponibil la: https://cp-algorithms.com/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_18] ACM Digital Library. "Computing Education Research". Disponibil la: https://dl.acm.org/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_19] Springer Link. "Educational Psychology". Disponibil la: https://link.springer.com/journal/10648. Accesat la: 10 iunie 2025.
+
+[NEW_REF_20] Taylor & Francis Online. "Journal of Computer Science Education". Disponibil la: https://www.tandfonline.com/toc/ncse20/current. Accesat la: 10 iunie 2025.
+
+[NEW_REF_21] ScienceDirect. "Computers & Education". Disponibil la: https://www.sciencedirect.com/journal/computers-and-education. Accesat la: 10 iunie 2025.
+
+[NEW_REF_22] Springer Link. "Educational Technology Research". Disponibil la: https://link.springer.com/journal/11423. Accesat la: 10 iunie 2025.
+
+[NEW_REF_23] ACM Digital Library. "Transactions on Computing Education". Disponibil la: https://dl.acm.org/journal/toce. Accesat la: 10 iunie 2025.
+
+[NEW_REF_24] DEV Community. "Programming Community". Disponibil la: https://dev.to/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_27] Firebase Documentation. "Realtime Database". Disponibil la: https://firebase.google.com/docs/database. Accesat la: 10 iunie 2025.
+
+[NEW_REF_28] Firebase Documentation. "Authentication". Disponibil la: https://firebase.google.com/docs/auth. Accesat la: 10 iunie 2025.
+
+[NEW_REF_29] EDUCAUSE. "Cybersecurity Program". Disponibil la: https://www.educause.edu/focus-areas-and-initiatives/policy-and-security/cybersecurity-program. Accesat la: 10 iunie 2025.
+
+[NEW_REF_30] IEEE Xplore. "Security and Privacy". Disponibil la: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8013. Accesat la: 10 iunie 2025.
+
+[NEW_REF_31] Firebase Documentation. "Cloud Firestore". Disponibil la: https://firebase.google.com/docs/firestore. Accesat la: 10 iunie 2025.
+
+[NEW_REF_32] MongoDB Documentation. "Data Modeling". Disponibil la: https://docs.mongodb.com/manual/core/data-modeling/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_33] ACM Computing Surveys. "Database Systems". Disponibil la: https://dl.acm.org/journal/csur. Accesat la: 10 iunie 2025.
+
+[NEW_REF_37] Taylor & Francis Online. "Educational Technology Research". Disponibil la: https://www.tandfonline.com/toc/uerd20/current. Accesat la: 10 iunie 2025.
+
+[NEW_REF_38] APA PsycNet. "Educational Psychology". Disponibil la: https://psycnet.apa.org/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_39] ScienceDirect. "Computers & Education". Disponibil la: https://www.sciencedirect.com/journal/computers-and-education. Accesat la: 10 iunie 2025.
+
+[NEW_REF_40] Judge0. "API Documentation". Disponibil la: https://ce.judge0.com/. Accesat la: 10 iunie 2025.
+
+[NEW_REF_41] AWS Documentation. "Lambda Security". Disponibil la: https://docs.aws.amazon.com/lambda/latest/dg/lambda-security.html. Accesat la: 10 iunie 2025.
+
+[NEW_REF_42] Martin Fowler. "Microservices". Disponibil la: https://martinfowler.com/articles/microservices.html. Accesat la: 10 iunie 2025.
+
+[NEW_REF_43] Taylor & Francis Online. "Educational Technology Research and Development". Disponibil la: https://www.tandfonline.com/toc/uerd20/current. Accesat la: 10 iunie 2025.
+
+[NEW_REF_44] APA PsycNet. "Journal of Educational Psychology". Disponibil la: https://psycnet.apa.org/PsycARTICLES/journal/edu. Accesat la: 10 iunie 2025.
+
+[NEW_REF_45] ScienceDirect. "Computers & Education". Disponibil la: https://www.sciencedirect.com/journal/computers-and-education. Accesat la: 10 iunie 2025.
+
+[NEW_REF_46] IEEE Computer Society. "Software Engineering Body of Knowledge". Disponibil la: https://www.computer.org/education/bodies-of-knowledge/software-engineering. Accesat la: 10 iunie 2025.
+
+[NEW_REF_47] ACM Digital Library. "Software Engineering Research". Disponibil la: https://dl.acm.org/topic/ccs2012/10011007.10011074. Accesat la: 10 iunie 2025.
+
+[NEW_REF_48] Springer Link. "Requirements Engineering Journal". Disponibil la: https://link.springer.com/journal/766. Accesat la: 10 iunie 2025.
 ### Capitol 3.3 
 Referințe utilizate:
-[1] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/. Accesat în 8 iunie 2025.
-[2] Software Engineering Stack Exchange. "Is learning C essential for Computer Science?" https://softwareengineering.stackexchange.com/questions/210737/is-learning-c-essential-for-computer-science. Accesat în 8 iunie 2025.
-[3] GeeksforGeeks. "Why learning C Programming is a must?" 22 august 2024. https://www.geeksforgeeks.org/why-learning-c-programming-is-a-must/. Accesat în 8 iunie 2025.
-[4] StudySmarter. "C Programming Language: Examples, History & Advantages." https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/c-programming-language/. Accesat în 8 iunie 2025.
-[5] edX. "Learn C programming." https://www.edx.org/learn/c-programming. Accesat în 8 iunie 2025.
-[6] Computer Science Stack Exchange. "What programming languages always learned in computer science B.Sc.?" https://cs.stackexchange.com/questions/116926/what-programming-languages-always-learned-in-computer-science-b-sc. Accesat în 8 iunie 2025.
-[7] GeeksforGeeks. "C Programming Course Online - Learn C with Data Structures." https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced. Accesat în 8 iunie 2025.
-[8] GeeksforGeeks. "10 Best C Programming Courses For Beginners [2025]." 21 ianuarie 2025. https://www.geeksforgeeks.org/best-c-programming-courses-for-beginners/. Accesat în 8 iunie 2025.
-[9] Yale University. "Computer Science." https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science/. Accesat în 8 iunie 2025.
-[10] UC Berkeley Extension. "Introduction to C Language Programming – EL ENG X24." https://extension.berkeley.edu/search/publicCourseSearchDetails.do?method=load&courseId=40911. Accesat în 8 iunie 2025.
-[11] Codecademy. "Learn C: Pointers and Memory." https://www.codecademy.com/learn/learn-c-pointers-and-memory. Accesat în 8 iunie 2025.
-[12] W3Schools. "C Pointers." https://www.w3schools.com/c/c_pointers.php. Accesat în 8 iunie 2025.
-[13] Programming Lies. "Memory management is too hard for you." 7 septembrie 2023. https://www.bytesbeneath.com/p/manual-memory-management-is-too-hard. Accesat în 8 iunie 2025.
-[14] Educated Guesswork. "Understanding Memory Management, Part 1: C." https://educatedguesswork.org/posts/memory-management-1/. Accesat în 8 iunie 2025.
-[15] Learning C with Pebble. "Chapter 8: Pointers and Memory Allocation." https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html. Accesat în 8 iunie 2025.
-[16] GeeksforGeeks. "Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()." 13 decembrie 2018. https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/. Accesat în 8 iunie 2025.
-[17] Coursera. "C Programming: Pointers and Memory Management - 4." https://www.coursera.org/learn/c-programming-pointers-and-memory-management. Accesat în 8 iunie 2025.
-[18] GeeksforGeeks. "C Pointers." 15 decembrie 2016. https://www.geeksforgeeks.org/c-pointers/. Accesat în 8 iunie 2025.
-[19] DEV Community. "Understanding Memory Management, Pointers, and Function Pointers in C." 5 iulie 2024. https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld. Accesat în 8 iunie 2025.
-[20] W3Schools. "C Memory Management (Memory Allocation)." https://www.w3schools.com/c/c_memory_management.php. Accesat în 8 iunie 2025.
+[3.1] GeeksforGeeks. "C Programming Language Tutorial." 10 iunie 2024. https://www.geeksforgeeks.org/c-programming-language/. Accesat în 8 iunie 2025.
+[3.2] Software Engineering Stack Exchange. "Is learning C essential for Computer Science?" https://softwareengineering.stackexchange.com/questions/210737/is-learning-c-essential-for-computer-science. Accesat în 8 iunie 2025.
+[3.3] GeeksforGeeks. "Why learning C Programming is a must?" 22 august 2024. https://www.geeksforgeeks.org/why-learning-c-programming-is-a-must/. Accesat în 8 iunie 2025.
+[3.4] StudySmarter. "C Programming Language: Examples, History & Advantages." https://www.studysmarter.co.uk/explanations/computer-science/computer-programming/c-programming-language/. Accesat în 8 iunie 2025.
+[3.5] edX. "Learn C programming." https://www.edx.org/learn/c-programming. Accesat în 8 iunie 2025.
+[3.6] Computer Science Stack Exchange. "What programming languages always learned in computer science B.Sc.?" https://cs.stackexchange.com/questions/116926/what-programming-languages-always-learned-in-computer-science-b-sc. Accesat în 8 iunie 2025.
+[3.7] GeeksforGeeks. "C Programming Course Online - Learn C with Data Structures." https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced. Accesat în 8 iunie 2025.
+[3.8] GeeksforGeeks. "10 Best C Programming Courses For Beginners [2025]." 21 ianuarie 2025. https://www.geeksforgeeks.org/best-c-programming-courses-for-beginners/. Accesat în 8 iunie 2025.
+[3.9] Yale University. "Computer Science." https://catalog.yale.edu/ycps/subjects-of-instruction/computer-science/. Accesat în 8 iunie 2025.
+[3.10] UC Berkeley Extension. "Introduction to C Language Programming – EL ENG X24." https://extension.berkeley.edu/search/publicCourseSearchDetails.do?method=load&courseId=40911. Accesat în 8 iunie 2025.
+[3.11] Codecademy. "Learn C: Pointers and Memory." https://www.codecademy.com/learn/learn-c-pointers-and-memory. Accesat în 8 iunie 2025.
+[3.12] W3Schools. "C Pointers." https://www.w3schools.com/c/c_pointers.php. Accesat în 8 iunie 2025.
+[3.13] Programming Lies. "Memory management is too hard for you." 7 septembrie 2023. https://www.bytesbeneath.com/p/manual-memory-management-is-too-hard. Accesat în 8 iunie 2025.
+[3.14] Educated Guesswork. "Understanding Memory Management, Part 1: C." https://educatedguesswork.org/posts/memory-management-1/. Accesat în 8 iunie 2025.
+[3.15] Learning C with Pebble. "Chapter 8: Pointers and Memory Allocation." https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter08.html. Accesat în 8 iunie 2025.
+[3.16] GeeksforGeeks. "Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()." 13 decembrie 2018. https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/. Accesat în 8 iunie 2025.
+[3.17] Coursera. "C Programming: Pointers and Memory Management - 4." https://www.coursera.org/learn/c-programming-pointers-and-memory-management. Accesat în 8 iunie 2025.
+[3.18] GeeksforGeeks. "C Pointers." 15 decembrie 2016. https://www.geeksforgeeks.org/c-pointers/. Accesat în 8 iunie 2025.
+[3.19] DEV Community. "Understanding Memory Management, Pointers, and Function Pointers in C." 5 iulie 2024. https://dev.to/emanuelgustafzon/understanding-memory-management-pointers-and-function-pointers-in-c-8ld. Accesat în 8 iunie 2025.
+[3.20] W3Schools. "C Memory Management (Memory Allocation)." https://www.w3schools.com/c/c_memory_management.php. Accesat în 8 iunie 2025.
+
+[3.21] Online Learning vs Traditional Learning. https://potomac.edu/learning/online-learning-vs-traditional-learning. Accesat în 9 iunie 2025
+
+[3.22] Comparing Learning Outcomes between Traditional Classroom Teaching and Online Learning Environments in Programming. https://www.researchgate.net/publication/386098211_Comparing_Learning_Outcomes_between_Traditional_Classroom_Teaching_and_Online_Learning_Environments_in_Programming_Education . Accesat în 9 iunie 2025
+
+[3.23] Title: Traditional Learning Vs. Online Learning. https://elearningindustry.com/traditional-learning-vs-online-learning. Accesat în 9 iunie 2025
+
+[3.24] Traditional Learning vs Online Learning. https://pinlearn.com/traditional-learning-vs-online-learning. Accesat în 9 iunie 2025
+
+[3.25] eLearning Or Traditional Classroom Learning? Exploring The Pros And Cons.
+https://elearningindustry.com/elearning-or-traditional-classroom-learning-exploring-the-pros-and-cons
+Accesat în 9 iunie 2025
+
+[3.26] 9 Reasons Why eLearning Outshines Traditional Education Methods – Sensei LMS. https://senseilms.com/advantages-of-e-learning/. Accesat în 9 iunie 2025
+
+[3.27] The Impact and Effectiveness of E-Learning on Teaching and Learning. https://files.eric.ed.gov/fulltext/ED613533.pdf Accesat în 9 iunie 2025
 
 ### Capitol 3.4 
 
-[1] MDPI. "Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools." https://www.mdpi.com/2674-113X/1/1/2. Accesat în 8 iunie 2025.
-[2] Md. Mostafizer Rahman et al. "Exploring Automated Code Evaluation Systems and Resources for Code Analysis: A Comprehensive Survey." arXiv:2307.08705, 8 iulie 2023. https://arxiv.org/abs/2307.08705. Accesat în 8 iunie 2025.
-[3] GitHub. "judge0/judge0: The most advanced open-source online code execution system in the world." https://github.com/judge0/judge0. Accesat în 8 iunie 2025.
-[4] ACM Computing Surveys. "A Survey on Online Judge Systems and Their Applications." https://dl.acm.org/doi/10.1145/3143560. Accesat în 8 iunie 2025.
-[5] SpringerLink. "An Intelligent Online Judge System for Programming Training." https://link.springer.com/chapter/10.1007/978-3-030-59419-0_57. Accesat în 8 iunie 2025.
-[6] ACM Transactions on Computing Education. "Automated Assessment in Computer Science Education: A State-of-the-Art Review." https://dl.acm.org/doi/10.1145/3513140. Accesat în 8 iunie 2025.
-[7] ResearchGate. "Building a Comprehensive Automated Programming Assessment System." 28 aprilie 2020. https://www.researchgate.net/publication/340985812_Building_a_Comprehensive_Automated_Programming_Assessment_System. Accesat în 8 iunie 2025.
-[8] ERIC. "Using Case-Based Reasoning to Improve the Quality of Feedback Provided by Automated Assessment Systems for Programming Exercises." 2017. https://eric.ed.gov/?q=e-learning&pg=194&id=ED577657. Accesat în 8 iunie 2025.
-[9] Aizu Online Judge. "ITP1_3_B: Print Test Cases." https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B. Accesat în 8 iunie 2025.
-[10] Observable. "Online Judge/ Computer Programming/ Hidden Testcases." 26 iulie 2020. https://observablehq.com/@jyotisunkara/online-judge-computer-programming-hidden-testcases. Accesat în 8 iunie 2025.
-[11] ScienceDirect. "TESTed—An educational testing framework with language-agnostic test suites for programming exercises." https://www.sciencedirect.com/science/article/pii/S2352711023001000. Accesat în 8 iunie 2025.
+[3.21] MDPI. "Automated Code Assessment for Education: Review, Classification and Perspectives on Techniques and Tools." https://www.mdpi.com/2674-113X/1/1/2. Accesat în 8 iunie 2025.
+[3.22] Md. Mostafizer Rahman et al. "Exploring Automated Code Evaluation Systems and Resources for Code Analysis: A Comprehensive Survey." arXiv:2307.08705, 8 iulie 2023. https://arxiv.org/abs/2307.08705. Accesat în 8 iunie 2025.
+[3.23] GitHub. "judge0/judge0: The most advanced open-source online code execution system in the world." https://github.com/judge0/judge0. Accesat în 8 iunie 2025.
+[3.24] ACM Computing Surveys. "A Survey on Online Judge Systems and Their Applications." https://dl.acm.org/doi/10.1145/3143560. Accesat în 8 iunie 2025.
+[3.25] SpringerLink. "An Intelligent Online Judge System for Programming Training." https://link.springer.com/chapter/10.1007/978-3-030-59419-0_57. Accesat în 8 iunie 2025.
+[3.26] ACM Transactions on Computing Education. "Automated Assessment in Computer Science Education: A State-of-the-Art Review." https://dl.acm.org/doi/10.1145/3513140. Accesat în 8 iunie 2025.
+[3.27] ResearchGate. "Building a Comprehensive Automated Programming Assessment System." 28 aprilie 2020. https://www.researchgate.net/publication/340985812_Building_a_Comprehensive_Automated_Programming_Assessment_System. Accesat în 8 iunie 2025.
+[3.28] ERIC. "Using Case-Based Reasoning to Improve the Quality of Feedback Provided by Automated Assessment Systems for Programming Exercises." 2017. https://eric.ed.gov/?q=e-learning&pg=194&id=ED577657. Accesat în 8 iunie 2025.
+[3.29] Aizu Online Judge. "ITP1_3_B: Print Test Cases." https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B. Accesat în 8 iunie 2025.
+[3.30] Observable. "Online Judge/ Computer Programming/ Hidden Testcases." 26 iulie 2020. https://observablehq.com/@jyotisunkara/online-judge-computer-programming-hidden-testcases. Accesat în 8 iunie 2025.
+[3.31] ScienceDirect. "TESTed—An educational testing framework with language-agnostic test suites for programming exercises." https://www.sciencedirect.com/science/article/pii/S2352711023001000. Accesat în 8 iunie 2025.
 
 Referințe utilizate pentru secțiunea 4.1:
-[1] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2. Accesat în 9 iunie 2025.
-[2] Firebase. "Firebase Authentication Documentation." Google, 2025. https://firebase.google.com/docs/auth. Accesat în 9 iunie 2025.
-[3] Monaco Editor. "Monaco Editor Documentation." Microsoft, 2025. https://microsoft.github.io/monaco-editor/. Accesat în 9 iunie 2025.
-[4] Judge0. "Judge0 API Documentation." 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
-[5] Google. "Web Vitals." Google Developers, 2025. https://web.dev/vitals/. Accesat în 9 iunie 2025.
-[6] European Union. "General Data Protection Regulation (GDPR)." 25 mai 2018. https://gdpr.eu/. Accesat în 9 iunie 2025.
-[7] W3C. "Web Content Accessibility Guidelines (WCAG) 2.1." 5 iunie 2018. https://www.w3.org/WAI/WCAG21/quickref/. Accesat în 9 iunie 2025.
-[8] ACM. "Computing Education Research." ACM Transactions on Computing Education, 2024. https://dl.acm.org/journal/toce. Accesat în 9 iunie 2025.
+[4.1] DEV Community. "How to Escape Tutorial Hell." 9 martie 2023. https://dev.to/ikechukwu/how-to-escape-tutorial-hell-4pi2. Accesat în 9 iunie 2025.
+[4.2] Firebase. "Firebase Authentication Documentation." Google, 2025. https://firebase.google.com/docs/auth. Accesat în 9 iunie 2025.
+[4.3] Monaco Editor. "Monaco Editor Documentation." Microsoft, 2025. https://microsoft.github.io/monaco-editor/. Accesat în 9 iunie 2025.
+[4.4] Judge0. "Judge0 API Documentation." 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
+[4.5] Google. "Web Vitals." Google Developers, 2025. https://web.dev/vitals/. Accesat în 9 iunie 2025.
+[4.6] European Union. "General Data Protection Regulation (GDPR)." 25 mai 2018. https://gdpr.eu/. Accesat în 9 iunie 2025.
+[4.7] W3C. "Web Content Accessibility Guidelines (WCAG) 2.1." 5 iunie 2018. https://www.w3.org/WAI/WCAG21/quickref/. Accesat în 9 iunie 2025.
+[4.8] ACM. "Computing Education Research." ACM Transactions on Computing Education, 2024. https://dl.acm.org/journal/toce. Accesat în 9 iunie 2025.
 
 Referințe utilizate pentru secțiunea 4.2:
-[1] Vercel. "Next.js Architecture Guide." Vercel Inc., 2025. https://nextjs.org/docs/architecture. Accesat în 9 iunie 2025.
-[2] Next.js. "App Router Documentation." Vercel Inc., 2025. https://nextjs.org/docs/app. Accesat în 9 iunie 2025.
-[3] Firebase. "Firebase Documentation." Google, 2025. https://firebase.google.com/docs. Accesat în 9 iunie 2025.
-[4] React. "React Documentation." Meta Platforms Inc., 2025. https://react.dev/. Accesat în 9 iunie 2025.
-[5] React. "React Hooks Documentation." Meta Platforms Inc., 2025. https://react.dev/reference/react. Accesat în 9 iunie 2025.
-[6] Firebase. "Firebase Architecture Guide." Google, 2025. https://firebase.google.com/docs/guides. Accesat în 9 iunie 2025.
-[7] Firebase. "Security Rules Documentation." Google, 2025. https://firebase.google.com/docs/rules. Accesat în 9 iunie 2025.
-[8] Judge0. "Judge0 Documentation." Judge0 Technologies, 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
-[9] React. "React Design Principles." Meta Platforms Inc., 2025. https://react.dev/learn/thinking-in-react. Accesat în 9 iunie 2025.
-[10] Google. "Web Performance Best Practices." Google Developers, 2025. https://web.dev/performance/. Accesat în 9 iunie 2025.
+[4.9] Vercel. "Next.js Architecture Guide." Vercel Inc., 2025. https://nextjs.org/docs/architecture. Accesat în 9 iunie 2025.
+[4.10] Next.js. "App Router Documentation." Vercel Inc., 2025. https://nextjs.org/docs/app. Accesat în 9 iunie 2025.
+[4.11] Firebase. "Firebase Documentation." Google, 2025. https://firebase.google.com/docs. Accesat în 9 iunie 2025.
+[4.12] React. "React Documentation." Meta Platforms Inc., 2025. https://react.dev/. Accesat în 9 iunie 2025.
+[4.13] React. "React Hooks Documentation." Meta Platforms Inc., 2025. https://react.dev/reference/react. Accesat în 9 iunie 2025.
+[4.14] Firebase. "Firebase Architecture Guide." Google, 2025. https://firebase.google.com/docs/guides. Accesat în 9 iunie 2025.
+[4.15] Firebase. "Security Rules Documentation." Google, 2025. https://firebase.google.com/docs/rules. Accesat în 9 iunie 2025.
+[4.16] Judge0. "Judge0 Documentation." Judge0 Technologies, 2025. https://ce.judge0.com/. Accesat în 9 iunie 2025.
+[4.17] React. "React Design Principles." Meta Platforms Inc., 2025. https://react.dev/learn/thinking-in-react. Accesat în 9 iunie 2025.
+[4.18] Google. "Web Performance Best Practices." Google Developers, 2025. https://web.dev/performance/. Accesat în 9 iunie 2025.
 
 
 Bibliografie  pentru capitolul 5: Accesat în 9 iunie 2025.
 
-Brown, T. (2019). Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. Harper Business.
-Google Cloud. (2024). Firestore Documentation. Disponibil la: https://cloud.google.com/firestore/docs
+[5.1]Brown, T. (2019). Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. Harper Business.
+
+[5.2]Google Cloud. (2024). Firestore Documentation. Disponibil la: https://cloud.google.com/firestore/docs
 Nielsen Norman Group. (2024). UX Design for Learning Platforms. NN/g Research.
-Stack Overflow. (2024). Developer Survey Results. Disponibil la: https://survey.stackoverflow.co
+
+[5.3]Stack Overflow. (2024). Developer Survey Results. Disponibil la: https://survey.stackoverflow.co
 Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12(2), 257-285.
-Tidwell, J., Brewer, C., & Valencia, A. (2020). Designing Interfaces: Patterns for Effective Interaction Design (3rd ed.). O'Reilly Media.
+
+[5.4]Tidwell, J., Brewer, C., & Valencia, A. (2020). Designing Interfaces: Patterns for Effective Interaction Design (3rd ed.). O'Reilly Media.
 
 
 
 bibiliografie pentru capitolul 6 :Accessat in 9 iulie 2025
 
 Bibliografie
-[1] Google Developers. "Core Web Vitals - Essential metrics for a healthy site," Google, 2024. [Online]. Available: https://web.dev/vitals/
-[2] DebugBear. "Website Performance Testing and Monitoring," 2024. [Online]. Available: https://www.debugbear.com/
-[3] Firebase Team. "Firebase Documentation," Google Cloud, 2024. [Online]. Available: https://firebase.google.com/docs
-[4] Judge0 Team. "Judge0 CE API Documentation," 2024. [Online]. Available: https://ce.judge0.com/
-[5] Vercel Inc. "Next.js 15 Documentation," 2024. [Online]. Available: https://nextjs.org/docs
-[6] Microsoft Corporation. "Monaco Editor," 2024. [Online]. Available: https://microsoft.github.io/monaco-editor/
-[7] TailwindCSS Team. "Utility-First CSS Framework," 2024. [Online]. Available: https://tailwindcss.com/
-[8] TypeScript Team. "TypeScript Documentation," Microsoft, 2024. [Online]. Available: https://www.typescriptlang.org/
+[6.1] Google Developers. "Core Web Vitals - Essential metrics for a healthy site," Google, 2024. [Online]. Available: https://web.dev/vitals/
+[6.2] DebugBear. "Website Performance Testing and Monitoring," 2024. [Online]. Available: https://www.debugbear.com/
+[6.3] Firebase Team. "Firebase Documentation," Google Cloud, 2024. [Online]. Available: https://firebase.google.com/docs
+[6.4] Judge0 Team. "Judge0 CE API Documentation," 2024. [Online]. Available: https://ce.judge0.com/
+[6.5] Vercel Inc. "Next.js 15 Documentation," 2024. [Online]. Available: https://nextjs.org/docs
+[6.6] Microsoft Corporation. "Monaco Editor," 2024. [Online]. Available: https://microsoft.github.io/monaco-editor/
+[6.7] TailwindCSS Team. "Utility-First CSS Framework," 2024. [Online]. Available: https://tailwindcss.com/
+[6.8] TypeScript Team. "TypeScript Documentation," Microsoft, 2024. [Online]. Available: https://www.typescriptlang.org/
